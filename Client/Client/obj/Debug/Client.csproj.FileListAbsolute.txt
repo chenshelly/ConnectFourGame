@@ -1,0 +1,260 @@
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\bin\Debug\Client.exe.config
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\bin\Debug\Client.exe
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\bin\Debug\Client.pdb
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\obj\Debug\Client.Form1.resources
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\obj\Debug\Client.exe
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API\Client\obj\Debug\Client.pdb
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.Form1.resources
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.exe
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.pdb
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Client.exe.config
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Client.exe
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Client.pdb
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Text.Json.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Memory.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Buffers.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\EntityFramework.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\EntityFramework.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Buffers.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Memory.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.PlayerDetailsForm.resources
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\DatabaseGames.mdf
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\bin\Debug\DatabaseGames_log.ldf
+C:\Users\97250\Desktop\ConnectFour Game - dotNet project\Q8 Web API-i\Client\obj\Debug\Client.PLayersDataContext.resources
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\DatabaseGames.mdf
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\DatabaseGames_log.ldf
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Client.exe.config
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Client.exe
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Client.pdb
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Buffers.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Data.SqlClient.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Memory.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Text.Json.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Buffers.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Data.SqlClient.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Memory.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.csproj.App.config
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.PlayerDataPopUp.resources
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.PLayersDataContext.resources
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.exe
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.pdb
+C:\Users\97250\Desktop\ConnectFour-master\Client\Client\obj\Debug\Client.Start.resources
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Client.exe.config
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Client.exe
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Client.pdb
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\EntityFramework.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Buffers.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Data.SqlClient.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Memory.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Text.Json.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\EntityFramework.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Buffers.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Data.SqlClient.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Memory.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.csproj.App.config
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.PlayerDataPopUp.resources
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.PLayersDataContext.resources
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.Start.resources
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.exe
+C:\Users\97250\Desktop\projectGame\Client\Client\obj\Debug\Client.pdb
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Client.exe.config
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Client.exe
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Client.pdb
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\EntityFramework.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Buffers.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Data.SqlClient.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Memory.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Text.Json.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.ValueTuple.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\EntityFramework.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Buffers.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Data.SqlClient.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Memory.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\bin\Debug\System.ValueTuple.xml
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.csproj.App.config
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.PlayerDataPopUp.resources
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.PLayersDataContext.resources
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.Start.resources
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.exe
+C:\Users\97250\Desktop\FinalProject dotNet-ChenShelly_NoyMenashe\Client\Client\obj\Debug\Client.pdb

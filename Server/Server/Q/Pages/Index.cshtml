@@ -1,0 +1,68 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1 class="mystyle">Welcome to Connect4 game</h1>
+
+
+<div>
+    <form action="" method="post" autocomplete="on">
+        @for (int i = 0; i < Model.SIZE; i++)
+        {
+            <div class="row mb-4">
+                <div class="col-md-3">
+                    <label asp-for="Players[i].Name" class="control-label"></label>
+                    <input asp-for="Players[i].Name" class="form-control" />
+                    <span asp-validation-for="Players[i].Name" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-4">
+                <div class="col-md-3">
+                    <label asp-for="Players[i].Id" class="control-label"></label>
+                    <input asp-for="Players[i].Id" class="form-control" />
+                    <span asp-validation-for="Players[i].Id" class="text-danger"></span>
+
+                    
+                </div>
+            </div>
+
+            <div class="row mb-4">
+                <div class="col-md-3">
+                    <label asp-for="Players[i].PhoneNumber" class="control-label"></label>
+                    <input asp-for="Players[i].PhoneNumber" class="form-control" />
+                    <span asp-validation-for="Players[i].PhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-4">
+                <div class="col-md-3">
+                     <label for="country">Country</label>
+                    <select asp-for="Players[i].Country" class="form-control">
+                            <option value="">Select a country</option>
+                            <option value="USA">USA</option>
+                            <option value="Canada">Canada</option>
+                        <option value="Israel">Israel</option>
+                             <option value="UK">UK</option>
+                        </select>
+                    <span asp-validation-for="Country" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Date input can be added similarly if needed -->
+        }
+
+        <div class="form-group">
+            <button asp-page="" class="btn btn-primary" autofocus>Register</button>
+        </div>
+    </form>
+</div>
+
+
+<div class="mt-1">
+    <a href="Privacy">About</a>
+</div>
+<div asp-validation-summary="All" class="text-danger"></div>
+<a asp-page="./Players/Index">Press to see our players</a>

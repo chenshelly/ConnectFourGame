@@ -1,0 +1,263 @@
+﻿@page
+@model Q.Pages.Players.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container p-3">
+	<div class="row pt-4">
+		<div class="col-6">
+			<h2 class="text-primary">Players List</h2>
+		</div>
+		<div class="col-6 text-end">
+			<a asp-page="create" class="btn btn-primary">
+				<i class="bi bi-plus-square"></i> &nbsp;Create New Player
+			</a>
+		</div>
+		<div class="col-13 text-end">
+			<button class="btn btn-secondary" id="sortByName">
+				Sort by Name
+			</button>
+		</div>
+	</div>
+
+	<br /><br />
+
+	<table class="table table-bordered table-striped" table id="playerTable"  style="width:100%">
+		<thead>
+			<tr>
+				<th>
+					Id Game
+				</th>
+				<th>
+					Id Player
+				</th>
+				<th>
+					Name
+				</th>
+				<th>
+					PhoneNumber
+				</th>
+				<th>
+					Country
+				</th>
+				<th>
+					Duration Time
+				</th>
+				<th>
+					Wins
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var obj in Model.TblPlayers)
+			{
+				<tr>
+					<td width="14%">@obj.IdGame</td>
+					<td width="14%">@obj.Id</td>
+					<td width="14%">@obj.Name</td>
+					<td width="14%">@obj.PhoneNumber</td>
+					<td width="14%">@obj.Country</td>
+					<td width="14%">@obj.Duration</td>
+					<td width="14%">@obj.numWins</td>
+				
+					<td>
+						<div class="w-75 btn-group" role="group">
+						<a asp-page="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+							<i class="bi bi-pencil-square"></i>
+						</a>
+						<a asp-page="Delete" asp-route-id="@obj.Id"  class="btn btn-danger mx-2">
+							<i class="bi bi-trash-fill"></i>
+						</a>
+						</div>
+					</td>
+				</tr>
+			}
+			
+		</tbody>
+	</table>
+
+
+	<br /><br />
+	<br /><br />
+
+	<h3 class="text-primary">Players Name & Last Game Date </h3>
+	<table class="table table-bordered table-striped" table id="playerName_Duration_Table" style="width:100%">
+		<thead>
+			<tr>
+				<th>
+					Name
+				</th>
+				<th>
+					Last Game Duration Time
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var obj in Model.TblPlayers)
+			{
+				<tr>
+					<td width="50%">@obj.Name</td>
+					<td width="50%">@obj.Duration</td>
+				</tr>
+			}
+
+		</tbody>
+	</table>
+
+
+	<br /><br />
+	<h4 class="text-primary">Display player game details </h4>
+
+	<div class="row">
+		<div class="col-6">
+			<select id="playerDropdown" class="form-control">
+				<option value="">Select a Player</option>
+				@foreach (var obj in Model.TblPlayers)
+				{
+					<option value="@obj.Id">@obj.Name</option>
+					
+				
+				}
+			</select>
+		</div>
+	</div>
+
+	<br />
+
+	<table class="table table-bordered table-striped" id="playerGameTable" style="width:100%">
+		<thead>
+			<tr>
+				<th>
+					Name Player
+				</th>
+				<th>
+					Id Game
+				</th>
+				<th>
+					Duration Time
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var obj in Model.TblPlayers)
+			{
+				<tr>
+					<td width="33%">@obj.Name</td>
+					<td width="33%">@obj.IdGame</td>
+					<td width="33%">@obj.Duration</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+	<br /><br />
+	<h5 class="text-primary">Players by Rounds Game</h5>
+	<table class="table table-bordered table-striped" id="playerCountryTable" style="width:100%">
+		<thead>
+			<tr>
+				<th>
+					Name Player
+				</th>
+				<th>
+					game Rounds
+				</th>
+				
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var obj in Model.TblPlayers)
+			{
+				<tr>
+					<td width="50%">@obj.Name</td>
+					<td width="50%">@obj.gamesRound</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+</div>
+
+	<br /><br />
+	<h6 class="text-primary">Players by Country</h6>
+	<table class="table table-bordered table-striped" id="playerCountryTable" style="width:100%">
+		
+		<tbody>
+			@foreach (var countryGroup in Model.TblPlayers.GroupBy(p => p.Country))
+			{
+				<tr>
+					<td colspan="2" class="bg-primary text-white">@countryGroup.Key</td>
+				</tr>
+				@foreach (var player in countryGroup)
+				{
+					<tr>
+						
+						<td>@player.Name</td>
+					</tr>
+				}
+			}
+		</tbody>
+	</table>
+
+</div>
+
+
+
+
+<script>
+
+		let table = document.getElementById("playerName_Duration_Table");
+		let rows = Array.from(table.rows).slice(1); // Skip header row
+		rows.sort((a, b) => a.cells[2].innerText.localeCompare(b.cells[2].innerText, undefined, { sensitivity: 'base' }));
+
+		
+		while (table.rows.length > 1) {
+			table.deleteRow(1);
+		}
+
+		
+		rows.forEach(row => table.appendChild(row));
+	
+</script>
+
+<script>
+	document.getElementById("sortByName").addEventListener("click", function () {
+		let table = document.getElementById("playerTable");
+		let rows = Array.from(table.rows).slice(1); // Skip header row
+		rows.sort((a, b) => a.cells[0].innerText.localeCompare(b.cells[0].innerText, undefined, { sensitivity: 'case' }));
+
+		
+		while (table.rows.length > 1) {
+			table.deleteRow(1);
+		}
+
+	
+		rows.forEach(row => table.appendChild(row));
+	});
+</script>
+
+<script>
+	document.getElementById("playerDropdown").addEventListener("change", function () {
+		let selectedPlayerId = this.value;
+		let playerGameTable = document.getElementById("playerTable");
+		let rows = Array.from(playerGameTable.rows).slice(1); // Skip header row
+
+		// Clear existing rows
+		while (playerGameTable.rows.length > 1) {
+			playerGameTable.deleteRow(1);
+		}
+
+
+		rows.forEach(row => {
+			let playerId = row.cells[0].innerText;
+			if (playerId === selectedPlayerId) {
+				playerGameTable.appendChild(row.cloneNode(true));
+			}
+		});
+	});
+
+</script>
+
+

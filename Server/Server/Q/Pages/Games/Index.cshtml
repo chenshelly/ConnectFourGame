@@ -1,0 +1,286 @@
+﻿@page
+@model Q.Pages.Games.IndexModel
+@{
+    ViewData["Title"] = "Players by Amount of Games";
+}
+
+<div class="container p-3">
+	<div class="row pt-4">
+		<div class="col-6">
+			<h2 class="text-primary">Players with 3 games round</h2>
+		</div>
+		
+	</div>
+
+	<br /><br />
+
+	<table class="table table-bordered table-striped" style="width:100%">
+		<thead>
+			<tr>
+				<th>
+					Id Game
+				</th>
+				<th>
+					Id Player
+				</th>
+				<th>
+					Name
+				</th>
+				<th>
+					PhoneNumber
+				</th>
+				<th>
+					Country
+				</th>
+				<th>
+					Duration Time
+				</th>
+				<th>
+					Games Round
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var obj in Model.TblPlayers)
+			{
+				if (obj.gamesRound == 3)
+				{
+					<tr>
+						<td width="14%">@obj.IdGame</td>
+						<td width="14%">@obj.Id</td>
+						<td width="14%">@obj.Name</td>
+						<td width="14%">@obj.PhoneNumber</td>
+						<td width="14%">@obj.Country</td>
+						<td width="14%">@obj.Duration</td>
+						<td width="14%">@obj.gamesRound</td>
+
+						<td>
+							<div class="w-75 btn-group" role="group">
+								<a asp-page="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+									<i class="bi bi-pencil-square"></i>
+								</a>
+								<a asp-page="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+									<i class="bi bi-trash-fill"></i>
+								</a>
+							</div>
+						</td>
+					</tr>
+				}
+			}
+
+		</tbody>
+	</table>
+
+</div>
+
+
+<div class="container p-3">
+	<div class="row pt-4">
+		<div class="col-6">
+			<h2 class="text-primary">Players with 2 games round</h2>
+		</div>
+
+	</div>
+
+	<br /><br />
+
+	<table class="table table-bordered table-striped" style="width:100%">
+		<thead>
+			<tr>
+				<th>
+					Id Game
+				</th>
+				<th>
+					Id Player
+				</th>
+				<th>
+					Name
+				</th>
+				<th>
+					PhoneNumber
+				</th>
+				<th>
+					Country
+				</th>
+				<th>
+					Duration Time
+				</th>
+				<th>
+					games Round
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var obj in Model.TblPlayers)
+			{
+				if (obj.gamesRound == 2)
+				{
+					<tr>
+						<td width="14%">@obj.IdGame</td>
+						<td width="14%">@obj.Id</td>
+						<td width="14%">@obj.Name</td>
+						<td width="14%">@obj.PhoneNumber</td>
+						<td width="14%">@obj.Country</td>
+						<td width="14%">@obj.Duration</td>
+						<td width="14%">@obj.gamesRound</td>
+
+						<td>
+							<div class="w-75 btn-group" role="group">
+								<a asp-page="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+									<i class="bi bi-pencil-square"></i>
+								</a>
+								<a asp-page="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+									<i class="bi bi-trash-fill"></i>
+								</a>
+							</div>
+						</td>
+					</tr>
+				}
+			}
+
+		</tbody>
+	</table>
+
+</div>
+
+<div class="container p-3">
+	<div class="row pt-4">
+		<div class="col-6">
+			<h2 class="text-primary">Players with 1 game round</h2>
+		</div>
+
+	</div>
+
+	<br /><br />
+
+	<table class="table table-bordered table-striped" style="width:100%">
+		<thead>
+			<tr>
+				<th>
+					Id Game
+				</th>
+				<th>
+					Id Player
+				</th>
+				<th>
+					Name
+				</th>
+				<th>
+					PhoneNumber
+				</th>
+				<th>
+					Country
+				</th>
+				<th>
+					Duration Time
+				</th>
+				<th>
+					games Round
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var obj in Model.TblPlayers)
+			{
+				if (obj.gamesRound == 1)
+				{
+					<tr>
+						<td width="14%">@obj.IdGame</td>
+						<td width="14%">@obj.Id</td>
+						<td width="14%">@obj.Name</td>
+						<td width="14%">@obj.PhoneNumber</td>
+						<td width="14%">@obj.Country</td>
+						<td width="14%">@obj.Duration</td>
+						<td width="14%">@obj.gamesRound</td>
+
+						<td>
+							<div class="w-75 btn-group" role="group">
+								<a asp-page="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+									<i class="bi bi-pencil-square"></i>
+								</a>
+								<a asp-page="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+									<i class="bi bi-trash-fill"></i>
+								</a>
+							</div>
+						</td>
+					</tr>
+				}
+			}
+
+		</tbody>
+	</table>
+
+</div>
+
+<div class="container p-3">
+	<div class="row pt-4">
+		<div class="col-6">
+			<h2 class="text-primary">Players with 0 games round</h2>
+		</div>
+
+	</div>
+
+	<br /><br />
+
+	<table class="table table-bordered table-striped" style="width:100%">
+		<thead>
+			<tr>
+				<th>
+					Id Game
+				</th>
+				<th>
+					Id Player
+				</th>
+				<th>
+					Name
+				</th>
+				<th>
+					PhoneNumber
+				</th>
+				<th>
+					Country
+				</th>
+				<th>
+					Duration Time
+				</th>
+				<th>
+					Games Round
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var obj in Model.TblPlayers)
+			{
+				if (obj.gamesRound == 0)
+				{
+					<tr>
+						<td width="14%">@obj.IdGame</td>
+						<td width="14%">@obj.Id</td>
+						<td width="14%">@obj.Name</td>
+						<td width="14%">@obj.PhoneNumber</td>
+						<td width="14%">@obj.Country</td>
+						<td width="14%">@obj.Duration</td>
+						<td width="14%">@obj.gamesRound</td>
+
+						<td>
+							<div class="w-75 btn-group" role="group">
+								<a asp-page="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+									<i class="bi bi-pencil-square"></i>
+								</a>
+								<a asp-page="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+									<i class="bi bi-trash-fill"></i>
+								</a>
+							</div>
+						</td>
+					</tr>
+				}
+			}
+
+		</tbody>
+	</table>
+
+</div>
